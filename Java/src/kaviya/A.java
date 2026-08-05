@@ -1,4 +1,4 @@
-package Java;
+package kaviya;
 
 public class A {
 	public static void main(String[] args) {
